@@ -1,5 +1,5 @@
 # SPS-OOOManager
-Tentative to create an out of office manager
+Tentative to create an out of office manager (readme to be updated to reflect new names)
 ## New-OOORuleSet
 Create a new out of office rule set object
 - by default the rule set has no holyday you'll have to add it by yourself
